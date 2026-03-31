@@ -2,8 +2,8 @@
 ### BYOP Capstone Project Report
 
 **Date**: March 31, 2026  
-**Author**: AditiSrivastava  
-**Repo**: [https://github.com/hardik0903/CV_proj.git](https://github.com/aditi03521/Computer-Vision.git)
+**Author**: Aditi Srivastava  
+**Repo**: [https://github.com/aditi03521/Computer-Vision.git]
 
 ---
 
