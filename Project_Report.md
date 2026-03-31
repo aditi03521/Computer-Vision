@@ -3,7 +3,7 @@
 
 **Date**: March 31, 2026  
 **Author**: Aditi Srivastava  
-**Repo**: [https://github.com/aditi03521/Computer-Vision.git]
+**Repo**: [https://github.com/aditi03521/Computer-Vision.git](https://github.com/SuhaniMaurya/CV.git)
 
 ---
 
